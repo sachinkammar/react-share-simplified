@@ -1,7 +1,17 @@
 {
   "name": "react-share-simplified",
-  "version": "0.1.0",
-  "private": true,
+  "version": "1.0.0",
+  "private": false,
+  "description": "React share for facebook, twitter, whatsapp, mail and google plus",
+  "license": "MIT",
+  "repository": "sachinkammar/react-share-simplified",
+  "keywords": [
+    "react share",
+    "social share",
+    "facebook twitter whatsapp",
+    "share a post",
+    "share"
+  ],
   "dependencies": {
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
