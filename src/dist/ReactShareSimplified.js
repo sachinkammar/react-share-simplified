@@ -11,9 +11,9 @@ import {
   EmailIcon,
   WhatsappIcon
 } from "react-share";
-import './SocialShare.css';
+import './ReactShareSimplified.css';
 
-class SocialShare extends Component {
+class ReactShareSimplified extends Component {
     constructor(props) {
     super(props);
     this.state = {
@@ -68,4 +68,4 @@ class SocialShare extends Component {
     );
   }
 }
-export default SocialShare;
+export default ReactShareSimplified;

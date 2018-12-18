@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './App.css';
-import SocialShare from './social-share/SocialShare'
+import SocialShare from './dist/ReactShareSimplified'
 class App extends Component {
   render() {
     const url = "https://www.github.com";
