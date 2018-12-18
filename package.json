@@ -1,10 +1,11 @@
 {
   "name": "react-share-simplified",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "private": false,
   "description": "React share for facebook, twitter, whatsapp, mail and google plus",
   "license": "MIT",
-  "repository": "sachinkammar/react-share-simplified",
+  "repository": "https://sachinkammar.github.io/react-share-simplified/",
+  "homepage": "https://sachinkammar.github.io/react-share-simplified/",
   "keywords": [
     "react share",
     "social share",
@@ -13,6 +14,7 @@
     "share"
   ],
   "dependencies": {
+    "gh-pages": "^2.0.1",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
     "react-scripts": "2.1.1",
@@ -20,6 +22,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "yarn run build",
+    "deploy": "npm run build&&gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
