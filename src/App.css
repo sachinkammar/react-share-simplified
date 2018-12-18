@@ -1,0 +1,17 @@
+.share-title {
+  justify-content: center;
+  align-self: center;
+  font-size: 17px;
+  font-family: "Nunito";
+  font-weight: 500;
+  margin-right: 5px;
+}
+.align-inline {
+  display: flex;
+  flex: 1;
+  flex-direction: row;
+}
+.iconStyle {
+    margin: 0 5px 5px;
+    cursor: pointer;
+}
