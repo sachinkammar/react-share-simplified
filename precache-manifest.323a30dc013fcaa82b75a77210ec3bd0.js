@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/react-share-simplified/static/js/runtime~main.dbc08843.js"
   },
   {
-    "revision": "813ac625f111be7412f9",
-    "url": "/react-share-simplified/static/js/main.813ac625.chunk.js"
+    "revision": "e3d69d888833a5f29c86",
+    "url": "/react-share-simplified/static/js/main.e3d69d88.chunk.js"
   },
   {
     "revision": "da83b252b283aa9c8f74",
     "url": "/react-share-simplified/static/js/1.da83b252.chunk.js"
   },
   {
-    "revision": "813ac625f111be7412f9",
-    "url": "/react-share-simplified/static/css/main.f85fa1be.chunk.css"
+    "revision": "e3d69d888833a5f29c86",
+    "url": "/react-share-simplified/static/css/main.49f8fffe.chunk.css"
   },
   {
-    "revision": "d0d6233dc469b97358d6eb88cfc73df8",
+    "revision": "fd8b3e8e5002f05d7312cb6f405b6dcb",
     "url": "/react-share-simplified/index.html"
   }
 ];
